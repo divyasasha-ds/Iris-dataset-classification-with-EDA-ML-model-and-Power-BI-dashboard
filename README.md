@@ -28,7 +28,7 @@ This repository demonstrates the entire Data Science workflow — from raw data 
 ├── iris_cleaned.csv          # Cleaned dataset  
 ├── iris_eda_analysis.ipynb   # Exploratory Data Analysis  
 ├── iris_model.ipynb          # ML model building  
-├── iris_report.pbix          # Power BI report  
+├── dashboard.png.pbix          # Power BI report  
 └── README.md                 # Project documentation  
 
 🧹 1. Data Cleaning
