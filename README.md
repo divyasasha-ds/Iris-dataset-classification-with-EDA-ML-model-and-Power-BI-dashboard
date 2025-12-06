@@ -119,4 +119,3 @@ Combines Python ML + BI visualization
 Divya
 Data Science Enthusiast
 
-(You can add LinkedIn / GitHub profile links here)
