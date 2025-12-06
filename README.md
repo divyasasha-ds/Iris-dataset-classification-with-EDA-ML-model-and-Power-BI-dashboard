@@ -65,18 +65,14 @@ Models trained inside iris_model.ipynb:
 
 Model	Status
 Logistic Regression	✔ Successful
-Decision Tree Classifier	✔ Successful
-Random Forest Classifier	✔ Successful
 
 👉 You may fill the final numbers:
 
-Best Model: RandomForest / DecisionTree (your result here)
-
-Final Accuracy: XX%
+Final Accuracy: 1.0%
 
 📈 4. Power BI Dashboard
 
-The Power BI report (iris_report.pbix) includes:
+The Power BI report (dashboard.png) includes:
 
 Species distribution analysis
 
